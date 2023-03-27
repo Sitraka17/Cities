@@ -3,8 +3,11 @@ This repository contains Python code to create and visualize street maps of citi
 
 # Requirements
 Python 3.x
+
 Pandas
+
 OSMnx
+
 Getting Started
 
 # Getting Started
