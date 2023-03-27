@@ -31,7 +31,7 @@ For example, you can adjust the zoom level, choose different map tiles, and incl
 [Pandas documentation](https://pandas.pydata.org/docs/)
 
 
-OSMnx documentation
+[OSMnx documentation](https://osmnx.readthedocs.org/)
 
 
 
