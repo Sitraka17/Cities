@@ -27,6 +27,10 @@ You can customize the map view by changing various parameters in the 'config.jso
 
 For example, you can adjust the zoom level, choose different map tiles, and include or exclude specific features like parks or buildings.
 
+
+# Improvements 
+Might try a 3D possibility. 
+
 # Resources
 [Pandas documentation](https://pandas.pydata.org/docs/)
 
